@@ -10,9 +10,11 @@ comments: false
     Olá, eu me chamo Ramiro Júnior. Sou formado em Ciência da Computação pela Universidade Federal Rural do Semi-Árido - UFERSA e atualmente estou mestrando no Programa de Pós-Graduação em Cognição, Tecnologias e Instituições, também pela UFERSA. Paralelo ao mestrado atuo como Pesquisador Associado do OBVIO - Observatório da Violência do RN, trabalhando na produção científica de conhecimento por meio de ciência de dados. Esse conhecimento subsidia a parte de inteligência em Segurança Pública no estado do Rio Grande do Norte. 
 </p>
 
-## Experiência
-* Experiência x
-* Experiência x
+## Experiência Profissional
+* OBVIO - Obervatório da Violência do RN 
+  Pesquisador Associado, 2018 - atual
+* C A C DE SOUZA 
+  Analista de Suporte de Sistemas, 2010 - 2013
 * Experiência x
 
 
