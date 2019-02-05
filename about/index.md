@@ -24,7 +24,9 @@ Universidade Federal Rural do Semi-Árido, UFERSA, Brasil. <br/>
 Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação. <br/>
 * **Graduação em Ciência da Computação** <br/>
 Universidade Federal Rural do Semi-Árido, UFERSA, Brasil. <br/>
-Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação. <br/>
+* **Currículo Lattes** <br/>
+[Lattes](http://lattes.cnpq.br/0470238153371233)
 
 
 <!--
