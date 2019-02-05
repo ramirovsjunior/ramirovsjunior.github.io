@@ -17,6 +17,8 @@ comments: false
   Pesquisador Associado, 2018 - atual.
 * **C A C DE SOUZA** <br/>
   Analista de Suporte de Sistemas, 2010 - 2013.
+* **C A C DE SOUZA** <br/>
+  Departamento Administrativo, 2003 - 2010.
 
 ### Acadêmica
 * **Mestrado em andamento em COGNIÇÃO, TECNOLOGIAS E INSTITUIÇÕES (Conceito CAPES 4)** <br/>
@@ -25,7 +27,7 @@ Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação. <br
 * **Graduação em Ciência da Computação** <br/>
 Universidade Federal Rural do Semi-Árido, UFERSA, Brasil. <br/>
 Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação. <br/>
-* **Currículo Lattes** <br/>
+* **Currículo** <br/>
 [Lattes](http://lattes.cnpq.br/0470238153371233)
 
 
