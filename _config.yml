@@ -1,11 +1,11 @@
 # Site
 title:              Ramiro V S Júnior
-bio:                'Mestrando em Cognição, Tecnologias e Instituições pela Universidade Federal Rural do Semi-Árido (UFERSA). 
-                    Graduação em Ciência da Computação pela UFERSA (2017). Pesquisador Associado do OBVIO - Observatório da 
-                    Violência do RN. Possui curso técnico em Tecnologia da Informação com 
+bio:                'Pesquisador Associado do OBVIO - Observatório da Violência do RN. Mestrando em 
+                    Cognição, Tecnologias e Instituições pela Universidade Federal Rural do Semi-Árido (UFERSA). 
+                    Graduação em Ciência da Computação pela UFERSA (2017). Possui curso técnico em Tecnologia da Informação com 
                     Ênfase em Redes de Computadores pelo Instituto Metrópole Digital - 
                     UFRN / UFERSA (2014).'
-description:        "Informações relacionadas à Ciência da Computação, Ciência de Dados e Segurança Pública."
+description:        "Informações relacionadas à Ciência da Computação, Ciência de Dados e Produção de Conhecimentos para Segurança Pública."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/me.png'
