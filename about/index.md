@@ -11,9 +11,9 @@ comments: false
 </p>
 
 ## Experiência Profissional
-* OBVIO - Obervatório da Violência do RN 
+* OBVIO - Obervatório da Violência do RN <br/> 
   Pesquisador Associado, 2018 - atual
-* C A C DE SOUZA 
+* C A C DE SOUZA <br/>
   Analista de Suporte de Sistemas, 2010 - 2013
 * Experiência x
 
